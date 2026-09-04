@@ -1,8 +1,11 @@
 Detailed Overview: LumeAir Platform
+
 LumeAir is a modern, web-based environmental monitoring application engineered to deliver real-time air quality tracking, localized atmospheric analytics, and actionable health insights. Deployed on Google Cloud Run, it offers a scalable, low-latency experience tailored for individuals, urban planners, and health-conscious communities.
 
 Core Features & Functionality:
+
 1. Real-Time AQI & Pollutant Tracking:
+
 Air Quality Index (AQI): Displays real-time AQI scores categorized by standard health impact scales (Good, Moderate, Unhealthy, Hazardous).
 
 Particulate Matter Analysis: Tracks fine and coarse inhalable particles:
